@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there!
+I'm a passionate Computational Biology graduate 🧬 with a strong foundation in Machine Learning 🤖 and Web Development 🌐.
 
-<!--
-**gopika-rani-s/gopika-rani-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏡 Born and brought up in Kundara, Kollam 🇮🇳, I've honed my skills in:
 
-Here are some ideas to get you started:
+Applying ML techniques to biological data analysis 🔍🧫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern web applications using cutting-edge AI tools like v0, Bolt, and other AI-assisted development platforms 🚀💻
+
+🧠 My unique blend of:
+
+📚 Scientific background
+
+🛠️ Technical skills
+
+🤝 Proficiency with AI-powered tools
+
+...enables me to bridge the gap between complex data and user-friendly applications 🎯 — all while leveraging the latest in AI-powered workflows ⚙️✨.
